@@ -79570,7 +79570,7 @@ if(q==null)k=o
 else{k=A.R(k).ax
 p=k.fr
 k=q.cL(p==null?k.cx:p)}q=t.p
-return A.auF(o,A.a([A.fc(o,A.es(A.a([A.kg(A.a([A.mQ(new A.cB(new A.h4(r,B.em),A.eY(r,o,o,o,o,r,o,o,k,B.bm,o,o),o),1,o)],q),B.eR,B.a6,B.M),A.adt(B.V4,new A.a4h(m),o)],q),B.L,B.KY,B.M),B.u,s.ax.cy,o,o,750,o,B.bb,o)],q),o,o,o,o,o,o,o,o,o,o,o,!0,o,o,!1,o,o,o,o,o,new A.cB(new A.h4(l,B.yt),j,o),n)},
+return A.auF(o,A.a([A.fc(o,A.es(A.a([A.kg(A.a([A.mQ(new A.cB(new A.h4(r,B.em),A.eY(r,o,o,o,o,r,o,o,k,B.bm,o,o),o),1,o)],q),B.eR,B.a6,B.M),A.adt(B.V4,new A.a4h(m),o)],q),B.L,B.KY,B.M),B.u,s.ax.cy,o,o,o,o,B.bb,o)],q),o,o,o,o,o,o,o,o,o,o,o,!0,o,o,!1,o,o,o,o,o,new A.cB(new A.h4(l,B.yt),j,o),n)},
 $S:466}
 A.a4h.prototype={
 $0(){return A.JA(this.a.d)},
@@ -88121,6 +88121,9 @@ B.ea=new A.N1(1,"page")
 B.fN=new A.ez(B.y,B.ea)
 B.Is=A.a(s([B.AB,B.fN]),A.W("t<b1>"))
 B.mP=A.a(s([0,0,65490,12287,65535,34815,65534,18431]),t.t)
+B.LW=new A.id("get-started","Home","assets/image/icon_active_home.svg","assets/image/icon_inactive_home.svg")
+B.LV=new A.id("menu","Menu Pemberkasan","assets/image/icon_active_features.svg","assets/image/icon_inactive_features.svg")
+B.bd=A.a(s([B.LW,B.LV]),A.W("t<id>"))
 B.mQ=A.a(s([0,0,32776,33792,1,10240,0,0]),t.t)
 B.By=new A.jJ("Pengajuan berkas konferensi Cabang/Musyawarah Cabang","Dalam mengesahkan hasil-hasil Konferensi Cabang/Musyawarah Cabang HMI, PB HMI melakukan verifikasi berkas yang terdiri dari :\n1. Surat pemberitahuan pelaksanaan konferensi cabang kepada PB HMI, u.p. Bidang PAO (sebelum pelaksanaan konferensi cabang)\n2. SK Panitia Pelaksana Konferensi Cabang yang ditandatangani oleh ketua Umum dan Sekretaris Umum HMI Cabang;\n3. Surat pengantar pengurus demisioner yang ditandatangani oleh Ketua Umum dan Sekretaris Umum demisioner;\n4. Surat permohonan penerbitan SK;\n5. Surat permohonan untuk dilantik;\n6. Ketetapan tentang pengesahan tata tertib dan agenda acara;\n7. Ketetapan tentang pengesahan presidium sidang;\n8. Ketetapan tentang pengesahan laporan pertanggungjawaban;\n9. Ketetapan tentang pengesahan program kerja dan rekomendasi;\n10. Ketetapan tentang pengesahan kriteria calon Formateur;\n11. Ketetapan tentang pengesahan kriteria calon Mide Formateur;\n12. Ketetapan tentang pengesahan calon Formateur;\n13. Ketetapan tentang pengesahan calon Mide Formateur;\n14. Ketetapan tentang pengesahan Formateur/Ketua Umum;\n15. Ketetapan tentang pengesahan Mide formateur;\n16. Surat ketetapan tentang pengesahan Majelis Pengawas dan Konsultasi Pengurus Cabang (MPK PC) disertai lampiran nama anggota MPK PC;\n17. Lampiran rancangan program kerja;\n18. Lampiran draf rekomendasi;\n19. Lampiran daftar hadir setiap pengesahan sidang;\n20. Lampiran surat mandat peserta Konferensi cabang ,yang ditandatangani oleh Ketua Umum dan Sekretaris Umum HMI Komisariat;\n21. Draf hasil Musyawarah Kohati Cabang;\n22. Surat kesediaan dan biodata calon pengurus;\n23. Surat pengantar dari Pengurus Badan Koordinasi (BADKO) HMI;\n24. Untuk Musyawarah Cabang Istimewa tidak dilampirkan surat mandat.\n","https://forms.gle/oLx4ZJ5EgFjdaSvP8")
 B.BA=new A.jJ("Pengajuan berkas konferensi Musyawarah Daerah","Dalam mengesahkan hasil-hasil Musyawarah Daerah Badan Koordinasi (HMI), PB HMI melakukan verifikasi berkas yang terdiri dari :1. SK Panitia Pelaksana yang ditandatangani oleh Ketua Umum dan Sekretaris Umum Badan Koordinasi (BADKO);\n2. Surat pengantar pengurus demisioner;\n3. Ketetapan tentang pengesahan tatatertib dan agenda acara;\n4. Ketetapan tentang pengesahan presidium sidang;\n5. Ketetapan tentang pengesahan laporan pertanggungjawaban;\n6. Ketetapan tentang pengesahan program kerja dan rekomendasi;\n7. Ketetapan tentang pengesahan kriteria calon formateur;\n8. Ketetapan tentang pengesahan calon formateur;\n9. Lampiran laporan pertanggungjawaban;\n10. Lampiran rancangan program kerja;\n11. Lampiran draf rekomendasi;\n12. Lampiran daftar hadir setiap pengesahan sidang;\n13. Lampiran surat mandat peserta yang ditandatangani oleh Ketua Umum dan Sekretaris Umum cabang;\n14. Draf Musyawarah Daerah Kohati.\n","https://forms.gle/agD1UsnvyUiiuAyeA")
@@ -88168,9 +88171,6 @@ B.h0=new A.vc(0,"miter")
 B.Py=new A.vc(1,"round")
 B.PA=new A.vc(2,"bevel")
 B.IY=A.a(s([B.h0,B.Py,B.PA]),A.W("t<vc>"))
-B.LW=new A.id("get-started","Home","assets/image/icon_active_home.svg","assets/image/icon_inactive_home.svg")
-B.LV=new A.id("menu","Menu Pemberkasan","assets/image/icon_active_faq.svg","assets/image/icon_inactive_faq.svg")
-B.bd=A.a(s([B.LW,B.LV]),A.W("t<id>"))
 B.fj=A.a(s([0,0,65490,45055,65535,34815,65534,18431]),t.t)
 B.dW=new A.hv(0,"controlModifier")
 B.dX=new A.hv(1,"shiftModifier")
